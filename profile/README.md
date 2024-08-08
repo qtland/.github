@@ -4,9 +4,10 @@
 ## ヾ(〃^∇^)ﾉ Welcome to qtland Networks GitHub!
 qtland is a major server network for source engine games, we host public servers around the world and almost everywhere. We are THE ultimate Valve Competitive and Casual alternatives. The GitHub repository is for our archived old and rusty server configs and reverse-engineered matchmaking.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N811EAAK)
+
 ## （ミ￣ー￣ミ）Us Here!
 Join our new [discord](https://discord.gg/fixtf2) server.
-Like what does qtland do? Give us a [tip](https://ko-fi.com/qtland).
 
 ## ┐(‘～`；)┌ Be cautious!
 Please be aware of abusive server owners impersonating qtland. Everyone can claim they are qtland, you can tell if you're on a real qtland server or not.
