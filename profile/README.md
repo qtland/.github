@@ -1,5 +1,13 @@
-# Farewell :wave:
-qtland and its servers will shut down on August 25th due to server cost problems and other legal problems. The magic behind qtland will be open-sourced exactly on the day it has been shut down.
+![3b522528-d613-449d-8bcb-163fffbcb12c_png_10d2cfcb-d7cd-4a7f-8f31-3296b2509f71cover (1)](https://github.com/user-attachments/assets/7e04b9da-8d82-4f79-9b73-ca2ef4f4e7bb)
+[Artist](https://x.com/huasha1116)
 
-Rest in Peace 
-qtland 2022-2024
+## ヾ(〃^∇^)ﾉ Welcome to qtland Networks GitHub!
+qtland is a major server network for source engine games, we host public servers around the world and almost everywhere. We are THE ultimate Valve Competitive and Casual alternatives. The GitHub repository is for our archived old and rusty server configs and reverse-engineered matchmaking.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N811EAAK)
+
+## （ミ￣ー￣ミ）Us Here!
+Join our new [discord](https://discord.gg/fixtf2) server.
+
+## ┐(‘～`；)┌ Be cautious!
+Please be aware of abusive server owners impersonating qtland. Everyone can claim they are qtland, you can tell if you're on a real qtland server or not.
